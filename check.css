@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Gotham Pro';
-    src: url('https://5ка.jacobs.promo/fonts/GothamPro-Medium.eot');
-    src: url('https://5ка.jacobs.promo/fonts/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
-        url('https://5ка.jacobs.promo/fonts/GothamPro-Medium.woff2') format('woff2'),
-        url('https://5ка.jacobs.promo/fonts/GothamPro-Medium.woff') format('woff');
+    src: url('https://perek.jacobs.promo/fonts/GothamPro-Medium.eot');
+    src: url('https://perek.jacobs.promo/fonts/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('https://perek.jacobs.promo/fonts/GothamPro-Medium.woff2') format('woff2'),
+        url('https://perek.jacobs.promo/fonts/GothamPro-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -11,10 +11,10 @@
 
 @font-face {
     font-family: 'Gotham Pro';
-    src: url('https://5ка.jacobs.promo/fonts/GothamPro-Bold.eot');
-    src: url('https://5ка.jacobs.promo/fonts/GothamPro-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://5ка.jacobs.promo/fonts/GothamPro-Bold.woff2') format('woff2'),
-        url('https://5ка.jacobs.promo/fonts/GothamPro-Bold.woff') format('woff');
+    src: url('https://perek.jacobs.promo/fonts/GothamPro-Bold.eot');
+    src: url('https://perek.jacobs.promo/fonts/GothamPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://perek.jacobs.promo/fonts/GothamPro-Bold.woff2') format('woff2'),
+        url('https://perek.jacobs.promo/fonts/GothamPro-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -22,10 +22,10 @@
 
 @font-face {
     font-family: 'Gotham Pro';
-    src: url('https://5ка.jacobs.promo/fonts/GothamPro-Light.eot');
-    src: url('https://5ка.jacobs.promo/fonts/GothamPro-Light.eot?#iefix') format('embedded-opentype'),
-        url('https://5ка.jacobs.promo/fonts/GothamPro-Light.woff2') format('woff2'),
-        url('https://5ка.jacobs.promo/fonts/GothamPro-Light.woff') format('woff');
+    src: url('https://perek.jacobs.promo/fonts/GothamPro-Light.eot');
+    src: url('https://perek.jacobs.promo/fonts/GothamPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://perek.jacobs.promo/fonts/GothamPro-Light.woff2') format('woff2'),
+        url('https://perek.jacobs.promo/fonts/GothamPro-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -33,10 +33,10 @@
 
 @font-face {
     font-family: 'Gotham Pro';
-    src: url('https://5ка.jacobs.promo/fonts/GothamPro.eot');
-    src: url('https://5ка.jacobs.promo/fonts/GothamPro.eot?#iefix') format('embedded-opentype'),
-        url('https://5ка.jacobs.promo/fonts/GothamPro.woff2') format('woff2'),
-        url('https://5ка.jacobs.promo/fonts/GothamPro.woff') format('woff');
+    src: url('https://perek.jacobs.promo/fonts/GothamPro.eot');
+    src: url('https://perek.jacobs.promo/fonts/GothamPro.eot?#iefix') format('embedded-opentype'),
+        url('https://perek.jacobs.promo/fonts/GothamPro.woff2') format('woff2'),
+        url('https://perek.jacobs.promo/fonts/GothamPro.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
